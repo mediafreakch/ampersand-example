@@ -1,5 +1,5 @@
 node_modules
 src/node_modules/templates.js
-!assets/js/node_modules
+!src/node_modules
 public/
 test/*

@@ -13,7 +13,7 @@ logs
 results
 
 node_modules
-!assets/js/node_modules
+!src/node_modules
 npm-debug.log
 
 *.rdb
