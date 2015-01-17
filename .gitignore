@@ -82,3 +82,4 @@ build/Release
 node_modules
 !src/node_modules
 src/assets/css/index.css
+src/node_modules/templates.js
