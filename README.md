@@ -8,7 +8,7 @@ This example simply looks at an alternative approach to organising an [Ampersand
 1. Each module contains a directory for it's `templates`.
 1. Each module contains a directory for it's `styles`.
 1. Each module contains a `package.json` (see [here for explanation](http://iamsim.me/taking-advantage-of-nodes-require-algorithm-with-browserify/)).
-1. `moonbootsConfig.js` contains updated [templatizer](https://github.com/HenrikJoreteg/templatizer) logic to process templates stored in different module locations.
+1. `moonbootsConfig.js` contains updated [templatizer](https://github.com/HenrikJoreteg/templatizer) logic to process templates stored in different module locations ([globbing would be nice :P](https://github.com/HenrikJoreteg/templatizer/issues/74)).
 1. Global [Stylus](http://learnboost.github.io/stylus/) styles are organised into `src/styles`.
 1. Static assets are organised into `src/assets`.
 
