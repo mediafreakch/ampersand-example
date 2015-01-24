@@ -9,6 +9,9 @@
   "author": "Simon Bailey <simon@newtriks.com>",
   "dependencies": {
     "ampersand-dom": "^1.2.7",
+    "ampersand-form-view": "^2.2.0",
+    "ampersand-input-view": "^3.1.1",
+    "ampersand-rest-collection": "^2.0.4",
     "ampersand-router": "^1.0.6",
     "ampersand-view": "^7.2.0",
     "ampersand-view-switcher": "^1.1.2",
@@ -17,6 +20,7 @@
     "get-result": "^0.1.0",
     "getconfig": "^1.0.0",
     "hapi": "^8.1.0",
+    "lodash": "^2.4.1",
     "moonboots_hapi": "^4.0.1",
     "stylizer": "^2.0.0",
     "templatizer": "^1.1.1"
