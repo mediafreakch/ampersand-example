@@ -26,7 +26,9 @@ module.exports = {
         templatizer([
           path.join(appDir, '/app/templates'),
           path.join(appDir, '/home/templates'),
-          path.join(appDir, '/info/templates')
+          path.join(appDir, '/info/templates'),
+          path.join(appDir, '/includes/templates'),
+          path.join(appDir, '/people/templates')
         ], path.join(appDir, '/templates.js'));
       }
     },
